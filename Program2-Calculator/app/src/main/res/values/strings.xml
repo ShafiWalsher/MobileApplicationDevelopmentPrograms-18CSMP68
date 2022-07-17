@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Program2</string>
+    <string name="enter_the_first_number">Enter the First Number</string>
+    <string name="enter_the_second_number">Enter the Second Number</string>
+    <string name="_0">0</string>
+    <string name="add">ADD</string>
+    <string name="sub">SUB</string>
+    <string name="mul">MUL</string>
+    <string name="div">DIV</string>
+    <string name="simple_calci">SIMPLE CALCULATOR</string>
+</resources>
